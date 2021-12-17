@@ -3,7 +3,7 @@
   "private": true,
   "license": "BSD-2-Clause",
   "workspaces": [
-    "packages/*"
+    "./packages/*"
   ],
   "devDependencies": {
     "@arcanis/sherlock": "^2.0.2",
